@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<font color="blue">抓到你我就嘿嘿嘿</font>
+		<font color="blue">抓到你我就<font color="red">嘿嘿嘿</font></font>
 </body>
 </html>
